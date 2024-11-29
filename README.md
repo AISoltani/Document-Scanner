@@ -39,6 +39,7 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install numpy opencv-python imutils matplotlib scikit-image
+```
 Description
 Key Steps
 Image Processing:
